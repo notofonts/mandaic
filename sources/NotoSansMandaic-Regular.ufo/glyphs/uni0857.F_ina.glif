@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0857.Fina" format="2">
+	<advance width="1133"/>
+	<outline>
+		<component base="uni0857"/>
+		<contour>
+			<point x="1004" y="76" type="line"/>
+			<point x="1004" y="0" type="line"/>
+			<point x="1133" y="0" type="line"/>
+			<point x="1133" y="76" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2023-06-28 10:40:24 +0000</string>
+		</dict>
+	</lib>
+</glyph>
