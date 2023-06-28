@@ -23,8 +23,6 @@ languagesystem mand dflt;
 feature init {
 lookupflag IgnoreMarks RightToLeft;
     sub @init1 by @init2;
-
-
 } init;
 
 feature isol {
@@ -35,7 +33,6 @@ lookupflag IgnoreMarks RightToLeft;
 feature medi {
 lookupflag IgnoreMarks RightToLeft;
     sub @medi1 by @medi2;
-
 } medi;
 
 feature fina {
@@ -87,7 +84,6 @@ lookup calt11;
 lookup calt12;
 lookup calt13;
 lookup calt14;
-
 } calt;
 
 feature aalt {
