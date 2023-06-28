@@ -52,7 +52,7 @@ lookup calt6 {
     sub [uni0846.Isol uni0846.Fina] [uni0848.Isol uni0848.Init]' by [uni0848.Isol_Long uni0848.Init_Long];
 } calt6;
 lookup calt7 {
-    sub [uni0842.Init uni0842.Medi uni0844.Init uni0844.Medi uni0848.Init uni0848.Medi] [uni0848.Fina uni0849.Fina]' by [uni0848.Fina_Short uni0849.Fina_Short];
+    sub [uni0842.Init uni0842.Medi uni0844.Init uni0844.Medi uni0848.Init uni0848.Medi] [uni0848.Medi uni0848.Fina uni0849.Fina]' by [uni0848.Medi_Short uni0848.Fina_Short uni0849.Fina_Short];
 } calt7;
 lookup calt8 {
     sub [uni084A.Init uni084A.Medi uni084D.Init uni084D.Medi uni0850.Init uni0850.Medi uni0851.Init uni0851.Medi] uni0849.Fina' by uni0849.Fina_XShort;
